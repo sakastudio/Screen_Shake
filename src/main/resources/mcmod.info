@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "screenshake",
+    "name": "Screen_Shake",
+    "description": "このあ77kgの画面揺れ専用mod",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "sakastudio"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
