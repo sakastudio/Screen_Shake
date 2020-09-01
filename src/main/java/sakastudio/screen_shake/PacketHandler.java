@@ -23,6 +23,6 @@ public class PacketHandler {
 
     public static void registerMessages() {
         // Register messages which are sent from the client to the server here:
-        INSTANCE.registerMessage(PacketClientSendKey.Handler.class, PacketClientSendKey.class, nextID(), Side.CLIENT);
+        INSTANCE.registerMessage(SPacketShake.Handler.class, SPacketShake.class, nextID(), Side.CLIENT);
     }
 }
